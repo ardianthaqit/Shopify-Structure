@@ -1,0 +1,2 @@
+# Shopify Structure
+ Shopify Structure
