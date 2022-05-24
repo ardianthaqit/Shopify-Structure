@@ -14,7 +14,7 @@ Note: make sure you have the config.yml inside the shopify folder and outside th
 
 ###Installation
 
-#Step #1: Install node modules
+Step #1: Install node modules
 
 `npm i`
 
