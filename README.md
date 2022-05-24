@@ -1,7 +1,7 @@
 Shopify Development Environment
 
-This structure for Shopify is created by Ardijan Thaçi ardianthaqit2014@gmail.com with modules 
-to create a shop using tailwindcss, webpack, laravel-mix and cross-env and other modules which makes the shop more faster and more optimized
+This structure for Shopify is created by Ardijan Thaçi ardianthaqit2014@gmail.com,
+with best modules to create a shop using tailwindcss, webpack, laravel-mix and cross-env and other modules which makes the shop more faster and more optimized
 
 
 First you need to delete all files inside shopify folder after that you need to download your theme from Shopify with theme-kit 
