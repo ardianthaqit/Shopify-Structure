@@ -18,7 +18,6 @@ Step #1: Install node modules
 
     npm i
 
-
 Step #2: Theme watch and make allow in live in shopify
 
     npm run shopify
@@ -30,6 +29,5 @@ Step #3:Compile files with Webpack and Laravel-mix
 Step #4: Run the CLI to scan your template files for classes and build your CSS.
 
     npm run tailwindcss
-
 
 NOTE: please be careful with the changes you make in the configs file.
