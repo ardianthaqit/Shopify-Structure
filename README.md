@@ -13,7 +13,8 @@ theme get --password=[your-theme-kit-password] --store="[your-store.myshopify.co
 Note: make sure you have the config.yml inside the shopify folder and outside the shopify folder
 
 ###Installation
-Step #1: Install node modules
+
+#Step #1: Install node modules
 
 `npm i`
 
