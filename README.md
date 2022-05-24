@@ -18,6 +18,7 @@ Step #1: Install node modules
 
     npm i
 
+
 Step #2: Theme watch and make allow in live in shopify
 
     npm run shopify
