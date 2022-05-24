@@ -15,7 +15,7 @@ Note: make sure you have the config.yml inside the shopify folder and outside th
 ###Installation
 Step #1: Install node modules
 
-npm i 
+```npm i```
 
 Step #2: Theme watch and make allow in live in shopify
 
