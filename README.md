@@ -19,7 +19,7 @@ npm i
 
 Step #2: Theme watch and make allow in live in shopify
 
-npm run shopify
+```npm run shopify```
 
 Step #3:Compile files with Webpack and Laravel-mix
 
