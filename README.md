@@ -1,6 +1,6 @@
 ## Shopify Development Environment
 
-This structure for Shopify is created by Ardijan Thaçi ardijan@solution25.com
+This structure for Shopify is created by Ardijan Thaçi ardianthaqit2014@gmail.com
 with best modules to create a shop using tailwindcss, webpack, laravel-mix and cross-env and other modules which makes the shop more faster and more optimized
 
 
