@@ -1,7 +1,7 @@
 {
-  "name": "chocqlate",
+  "name": "Shopify Theme",
   "version": "1.0.0",
-  "description": "chocqlate-newtheme",
+  "description": "A-TH-Theme",
   "main": "index.js",
   "scripts": {
     "tailwindcss": "npx tailwindcss build src/css/tailwind.css -o dist/css/application.css --watch",
